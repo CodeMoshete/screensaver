@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: 528ca90d9d384bf4eb75dd237db0de5c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box01
+    100002: ChamferBox02
+    100004: ChamferBox03
+    100006: ChamferBox04
+    100008: ChamferBox05
+    100010: ChamferBox06
+    100012: ChamferBox07
+    100014: ChamferBox08
+    100016: ChamferBox09
+    100018: ChamferBox10
+    100020: ChamferBox10 1
+    100022: ChamferBox12
+    100024: ChamferCyl02
+    100026: Circle03
+    100028: Circle04
+    100030: ConnecterRidge01
+    100032: Cylinder06
+    100034: Cylinder08
+    100036: Cylinder08 1
+    100038: Cylinder09
+    100040: Cylinder09 1
+    100042: Cylinder10
+    100044: EngineeringTop01
+    100046: //RootNode
+    100048: Nacelle02
+    100050: Nacelle03
+    100052: nacelleSupports01
+    100054: nacelleSupportTop01
+    100056: Object01
+    100058: Object02
+    100060: Object03
+    100062: SaucerBottom01
+    100064: SaucerBottomOuter01
+    100066: SaucerConnecterBack01
+    100068: SaucerSide01
+    100070: ShuttlebayInterior
+    100072: Sphere02  01
+    100074: Sphere04
+    100076: Sphere05
+    400000: Box01
+    400002: ChamferBox02
+    400004: ChamferBox03
+    400006: ChamferBox04
+    400008: ChamferBox05
+    400010: ChamferBox06
+    400012: ChamferBox07
+    400014: ChamferBox08
+    400016: ChamferBox09
+    400018: ChamferBox10
+    400020: ChamferBox10 1
+    400022: ChamferBox12
+    400024: ChamferCyl02
+    400026: Circle03
+    400028: Circle04
+    400030: ConnecterRidge01
+    400032: Cylinder06
+    400034: Cylinder08
+    400036: Cylinder08 1
+    400038: Cylinder09
+    400040: Cylinder09 1
+    400042: Cylinder10
+    400044: EngineeringTop01
+    400046: //RootNode
+    400048: Nacelle02
+    400050: Nacelle03
+    400052: nacelleSupports01
+    400054: nacelleSupportTop01
+    400056: Object01
+    400058: Object02
+    400060: Object03
+    400062: SaucerBottom01
+    400064: SaucerBottomOuter01
+    400066: SaucerConnecterBack01
+    400068: SaucerSide01
+    400070: ShuttlebayInterior
+    400072: Sphere02  01
+    400074: Sphere04
+    400076: Sphere05
+    2300000: Box01
+    2300002: ChamferBox02
+    2300004: ChamferBox03
+    2300006: ChamferBox04
+    2300008: ChamferBox05
+    2300010: ChamferBox06
+    2300012: ChamferBox07
+    2300014: ChamferBox08
+    2300016: ChamferBox09
+    2300018: ChamferBox10
+    2300020: ChamferBox10 1
+    2300022: ChamferBox12
+    2300024: ChamferCyl02
+    2300026: Circle03
+    2300028: Circle04
+    2300030: ConnecterRidge01
+    2300032: Cylinder06
+    2300034: Cylinder08
+    2300036: Cylinder08 1
+    2300038: Cylinder09
+    2300040: Cylinder09 1
+    2300042: Cylinder10
+    2300044: EngineeringTop01
+    2300046: nacelleSupports01
+    2300048: nacelleSupportTop01
+    2300050: Object01
+    2300052: Object02
+    2300054: Object03
+    2300056: SaucerBottom01
+    2300058: SaucerBottomOuter01
+    2300060: SaucerConnecterBack01
+    2300062: SaucerSide01
+    2300064: ShuttlebayInterior
+    2300066: Sphere02  01
+    2300068: Sphere04
+    2300070: Sphere05
+    3300000: Box01
+    3300002: ChamferBox02
+    3300004: ChamferBox03
+    3300006: ChamferBox04
+    3300008: ChamferBox05
+    3300010: ChamferBox06
+    3300012: ChamferBox07
+    3300014: ChamferBox08
+    3300016: ChamferBox09
+    3300018: ChamferBox10
+    3300020: ChamferBox10 1
+    3300022: ChamferBox12
+    3300024: ChamferCyl02
+    3300026: Circle03
+    3300028: Circle04
+    3300030: ConnecterRidge01
+    3300032: Cylinder06
+    3300034: Cylinder08
+    3300036: Cylinder08 1
+    3300038: Cylinder09
+    3300040: Cylinder09 1
+    3300042: Cylinder10
+    3300044: EngineeringTop01
+    3300046: nacelleSupports01
+    3300048: nacelleSupportTop01
+    3300050: Object01
+    3300052: Object02
+    3300054: Object03
+    3300056: SaucerBottom01
+    3300058: SaucerBottomOuter01
+    3300060: SaucerConnecterBack01
+    3300062: SaucerSide01
+    3300064: ShuttlebayInterior
+    3300066: Sphere02  01
+    3300068: Sphere04
+    3300070: Sphere05
+    4300000: ShuttlebayInterior
+    4300002: ChamferBox12
+    4300004: Object03
+    4300006: Box01
+    4300008: ChamferBox10
+    4300010: Cylinder09
+    4300012: Object02
+    4300014: Object01
+    4300016: Cylinder10
+    4300018: Cylinder08
+    4300020: Cylinder09
+    4300022: Sphere02  01
+    4300024: ChamferCyl02
+    4300026: Cylinder08
+    4300028: Cylinder06
+    4300030: SaucerConnecterBack01
+    4300032: ConnecterRidge01
+    4300034: Sphere05
+    4300036: SaucerBottomOuter01
+    4300038: Circle04
+    4300040: Circle03
+    4300042: ChamferBox10
+    4300044: SaucerSide01
+    4300046: SaucerBottom01
+    4300048: Sphere04
+    4300050: nacelleSupports01
+    4300052: nacelleSupportTop01
+    4300054: EngineeringTop01
+    4300056: ChamferBox06
+    4300058: ChamferBox07
+    4300060: ChamferBox08
+    4300062: ChamferBox09
+    4300064: ChamferBox04
+    4300066: ChamferBox03
+    4300068: ChamferBox02
+    4300070: ChamferBox05
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 107937a1f3fe0244590930455ad316b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Defaultdfhr6h
+    second: {fileID: 2100000, guid: a4da4b17573c3f54fa0fec059350a322, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: adb26d8d8ed4aa64aa4660f1a34161e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 09 - Default
+    second: {fileID: 2100000, guid: ac8aacdecefa3394182f39082e81d99b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 13 - Default4t34
+    second: {fileID: 2100000, guid: 3d6a47a17e42dd94a890e4f930cd06b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 13 - Default4t344
+    second: {fileID: 2100000, guid: 3d6a47a17e42dd94a890e4f930cd06b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 13 - Default4t3490u8
+    second: {fileID: 2100000, guid: 3d6a47a17e42dd94a890e4f930cd06b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 14 - Defaultaw4t3ta
+    second: {fileID: 2100000, guid: 8e70271714800a040aafe6ebd00d9c27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15 - Default
+    second: {fileID: 2100000, guid: 2c61e4f474de0ba4ebd5373ac419101b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15 - Defaultawf34f34
+    second: {fileID: 2100000, guid: 2c61e4f474de0ba4ebd5373ac419101b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 9492ea2b96724e84599e896951fb46a5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
